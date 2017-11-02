@@ -1,5 +1,5 @@
 
-# README for Dawinlab task by G1JI #
+# README for darwin lab task by G1JI #
 Build a MEAN stack app containing  3 pages which would scrape images from google search and store it in your server: 
 1- A page containing an input field and a submit button to Fetch images from google and save top 15 images after passing through a compression algorithm then pass it through a black and white filter and upload all the images to a particular location(Amazon S3 or local HDD).
 2- A page which lists all the keywords searched before by the user.
